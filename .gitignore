@@ -1,1 +1,2 @@
-ru,run
+gnore all files without extensions (common for executables).*
+git rm --cached runSRoot
